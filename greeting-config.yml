@@ -6,7 +6,7 @@ management:
   security:
     enabled: false
 
-loggig:
+logging:
   level:
     io:
       pivotal: DEBUG
